@@ -10,3 +10,10 @@ Vision-based smart camera system that detects a moving subject using motion-base
 
 ## Files
 - `Computer_Vision_Project_Report.pdf` — full report with methodology, results, and outputs
+
+## 🔍 Initial Object Detection
+
+The system detects foreground objects and extracts pixel-level features to initialize tracking.
+
+![Initial Detection](initial-object-detection.png)
+
